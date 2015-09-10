@@ -2,3 +2,4 @@
 
 `npm install threepointone/react-animated-web-bootleg --save`
 
+to run example, `npm install && npm start`, then open `http://localhost:3000/example/index.html`
